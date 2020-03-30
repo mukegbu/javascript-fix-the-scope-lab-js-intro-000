@@ -6,7 +6,7 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-if('dog');
+var animal = 'cat'
 return animal
 }
 
