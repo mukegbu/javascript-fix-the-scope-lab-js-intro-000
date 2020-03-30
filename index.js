@@ -6,9 +6,10 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-if(animal)
+if('dog')
 return animal
 }
+
 
 function add2(n) {
   return n + two
