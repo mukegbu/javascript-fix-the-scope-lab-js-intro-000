@@ -24,4 +24,4 @@ var funkyFunction = function() {
 }
 
 var theFunk = funkyFunction
-console.log(Funkyfunction()()) 
+function('theFunk')
